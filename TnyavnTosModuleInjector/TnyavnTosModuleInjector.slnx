@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TnyavnTosModuleInjector/TnyavnTosModuleInjector.vcxproj" Id="d260340e-5b0b-42e8-b51d-e2e09885a33a" />
+</Solution>
